@@ -1,0 +1,6 @@
+nltk
+pandas
+praw
+psaw
+matplotlib
+transformers
