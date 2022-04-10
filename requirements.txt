@@ -1,6 +1,13 @@
-nltk
-pandas
 praw
 psaw
+nltk
+pandas
 matplotlib
+
+--find-links https://download.pytorch.org/whl/cu113
+torch 
+torchvision 
+torchaudio
+
 transformers
+
