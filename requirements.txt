@@ -1,8 +1,9 @@
-praw
-psaw
+matplotlib
 nltk
 pandas
-matplotlib
+praw
+psaw
+scipy
 
 --find-links https://download.pytorch.org/whl/cu113
 torch 
