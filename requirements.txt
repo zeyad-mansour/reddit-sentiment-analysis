@@ -3,6 +3,7 @@ nltk
 pandas
 praw
 psaw
+seaborn
 scipy
 
 --find-links https://download.pytorch.org/whl/cu113
