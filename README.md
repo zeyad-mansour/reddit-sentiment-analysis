@@ -1,1 +1,1 @@
-Distributed under the [MIT License](LICENSE). See LICENSE.txt for more information.
+Distributed under the [MIT License](LICENSE).
