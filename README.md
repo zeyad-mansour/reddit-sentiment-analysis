@@ -1,1 +1,1 @@
-no readme yet
+Distributed under the [MIT License](LICENSE). See LICENSE.txt for more information.
