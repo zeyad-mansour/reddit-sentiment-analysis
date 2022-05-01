@@ -460,7 +460,7 @@ Now is not the time to drink: Due to drinking, and the poor diet and lack of sle
 
 You have the power to become sober within you. You can come here for support, come to IRC for support, but ultimately it depends on YOU. You can do it. I'll recommend once again ""Powerless No Longer"" by Pete Soderman. But you don't even need that: you know what you need to do.
 
-Stay strong. Stay healthy.",39,"{'infect': 1, 'mask': 1}","{'label': 'negative', 'score': 0.43124864}"
+Stay strong. Stay healthy.",39,{'infect': 1},"{'label': 'negative', 'score': 0.43124864}"
 2020-03-30 05:59:36,https://www.reddit.com/r/stopdrinking/comments/frnz4t/i_relapsed_again/,I relapsed (again),How do I forgive myself?,3,{},"{'label': 'negative', 'score': 0.66565}"
 2020-03-30 05:22:20,https://www.reddit.com/r/stopdrinking/comments/frnkg7/i_just_want_to_post_triumphantly_about_my/,I just want to post triumphantly about my pleasant bowel movement,"I was just reading a thread i posted here before about digestion and someone said they looked forward to me posting about my first triumphant bowel movement - so here it is. 
 
@@ -1948,7 +1948,7 @@ I continue thinking I could eventually be one of those guys who has just one dri
 
 Luckily there's a liquor store down the street and any time I need it I can go get my mask. I'm funnier with the mask, I'm happier with my mask, I'm THE REAL ME with my mask... then I wake up in bed not knowing how I got there or how late I stayed up. I don't remember sitting on the couch for 20 minutes just staring at the wall because I realize it's the alcohol making me feel like shit but it also makes me feel better and if I could just figure this formula out and drink the perfect amount I could be the perfect version of myself without going overboard.
 
-The problem is I can't. I go overboard everytime and I'm starting over again trying to just not drink long enough that I can be the real, sober me again. I just hope this time I can learn to love myself before a sip of beer sends me running for my mask.",4,{'mask': 10},"{'label': 'negative', 'score': 0.52720296}"
+The problem is I can't. I go overboard everytime and I'm starting over again trying to just not drink long enough that I can be the real, sober me again. I just hope this time I can learn to love myself before a sip of beer sends me running for my mask.",4,{},"{'label': 'negative', 'score': 0.52720296}"
 2020-03-26 12:34:48,https://www.reddit.com/r/stopdrinking/comments/fpemda/no_daydrinking_just_daythinking_during_my_week_of/,"No day-drinking, just day-thinking during my week of quarantine","While my friends are day-drinking during their quarantine, I’ve been day-thinking about how my almost month of sobriety has changed me for the better. Here are a few things I’ve noticed:
 
 As of today, I have lost 12 pounds by not drinking. My face is less round and bloated. 
@@ -2671,7 +2671,7 @@ When I stopped drinking, I felt I was given a new lease on life. Funny thing is,
 Newbies - what do you want? Oldies - what did you get?
 
 I will not drink with you today!",78,{},"{'label': 'neutral', 'score': 0.56396925}"
-2020-03-25 03:37:12,https://www.reddit.com/r/stopdrinking/comments/fom999/abstinence_during_quarantine_attitudes_and/,"Abstinence during quarantine, attitudes and circumstances . Be Save.","I live in the north of Spain, in Asturias, empty streets, queues in shops with people more than two and three metres apart, people with sanitary masks on their faces, latex gloves, mostly confined to their homes, nervous, restless, afraid of health, work, the future. Those with elderly parents fear for their lives, those with children fear for their future, and then the selfish fear for not being able to play sports, go out to the bar or take a walk. Food stores here can sell alcohol, beer, wine and even liquor. I buy a type of mixed rye-wheat bread from a very popular shop in my neighbourhood where the owner confesses to me that she has sold in one week all the alcohol she usually sold in a month. After 21 months without drinking I discovered that I was a social drinker, to integrate and that stopping drinking gave me back a part of me that I don't like very much ( I have become more serious and anodyne ) but it is real. We've been in quarantine for ten days now and the effects of people not being able to go out drinking are being felt, and they're going to be felt more with every day that passes and the news gets deadlier. In the end this has been experienced more times. Whatever you do, if you do not drink in isolation, if you drink again, if you are nervous or if you find it difficult, remember that we are human, that no one knows what to do when things are difficult, but also think that this difficult time would be much worse if we had not stopped drinking. Or hug, health to everyone and good luck.",13,"{'quarantine': 2, 'mask': 1}","{'label': 'negative', 'score': 0.6131711}"
+2020-03-25 03:37:12,https://www.reddit.com/r/stopdrinking/comments/fom999/abstinence_during_quarantine_attitudes_and/,"Abstinence during quarantine, attitudes and circumstances . Be Save.","I live in the north of Spain, in Asturias, empty streets, queues in shops with people more than two and three metres apart, people with sanitary masks on their faces, latex gloves, mostly confined to their homes, nervous, restless, afraid of health, work, the future. Those with elderly parents fear for their lives, those with children fear for their future, and then the selfish fear for not being able to play sports, go out to the bar or take a walk. Food stores here can sell alcohol, beer, wine and even liquor. I buy a type of mixed rye-wheat bread from a very popular shop in my neighbourhood where the owner confesses to me that she has sold in one week all the alcohol she usually sold in a month. After 21 months without drinking I discovered that I was a social drinker, to integrate and that stopping drinking gave me back a part of me that I don't like very much ( I have become more serious and anodyne ) but it is real. We've been in quarantine for ten days now and the effects of people not being able to go out drinking are being felt, and they're going to be felt more with every day that passes and the news gets deadlier. In the end this has been experienced more times. Whatever you do, if you do not drink in isolation, if you drink again, if you are nervous or if you find it difficult, remember that we are human, that no one knows what to do when things are difficult, but also think that this difficult time would be much worse if we had not stopped drinking. Or hug, health to everyone and good luck.",13,{'quarantine': 2},"{'label': 'negative', 'score': 0.6131711}"
 2020-03-25 03:16:53,https://www.reddit.com/r/stopdrinking/comments/fom1k4/been_sober_for_a_while_now_but_i_find_myself_back/,"Been sober for a while now, but I find myself back reading stories here","These are troubling times my fiends. I can’t imagine the abyss I would’ve ended up in, if I was drinking through this Corona virus. 
 
 I would have feared running out, so I would  have stock piled a ton of booze. It would’ve been amazing to see 2  weeks worth of liquor be gone in a few days. 
@@ -5220,7 +5220,7 @@ I am now realizing how quickly my relationship with my SO could have gone down a
 
 I guess I just wanted to write down these changes so if things get rough and I'm tempted to throw my sobriety away, I can have a reminder that I have way more important things to focus on.
 
-I will not drink with you today.",7,{'mask': 1},"{'label': 'positive', 'score': 0.6926748}"
+I will not drink with you today.",7,{},"{'label': 'positive', 'score': 0.6926748}"
 2020-03-19 13:02:16,https://www.reddit.com/r/stopdrinking/comments/fldh8q/starting_again/,Starting Again,"I'm on day 3 of sobriety.  Feeling good physically,  but thos isolation is not helping my depression. 
 
 Honestly,  all the restaurants and bars being closed is a blessing to me, as I never drank alone. Feeling the pain of all the laid off workers,  however. 
@@ -5856,7 +5856,7 @@ Bars and restaurants are closed or closing.  Those people who work there need su
 
 But most importantly for me, is I realize that a LOT of people have worry, stress, anxiety.  I will HEAR them.  I will first say “Hello”.  Then, I will look them in the eye and say “I’m a little worried about all this.  A lot of uncertainty.  I’m afraid of what is happening and will happen.  What about you?”   Then I will listen Kindly.  I will repeat back some of the things they tell me.  I will tell them that I care about them.
 
-What are your ideas for yourself and for us?",11,"{'pandemic': 1, 'infect': 1, 'rona': 1, 'mask': 2}","{'label': 'neutral', 'score': 0.50416756}"
+What are your ideas for yourself and for us?",11,"{'pandemic': 1, 'infect': 1, 'rona': 1}","{'label': 'neutral', 'score': 0.50416756}"
 2020-03-18 06:53:28,https://www.reddit.com/r/stopdrinking/comments/fkno1b/grateful_for_my_sobriety_amidst_uncertainty/,Grateful for my sobriety amidst uncertainty,"I'm tired. I'm hungry. I'm worried.
 
 Tired because I'm losing sleep because of the worry. Hungry because the grocery stores were sold out of the things we needed for our usual supplies; forget stocking up on the weekend. And now my son is sick, so we can't go get anything.
@@ -7160,7 +7160,7 @@ Keep coming back.
 
 ANYWAY, I'm up early today! I can't even remember the last time I woke up awake, alert, and happy. I made myself a cappachino and I'm going to play my favorite game on this hangover free morning.
 
-IWNDWYT",13,{'mask': 1},"{'label': 'positive', 'score': 0.8420196}"
+IWNDWYT",13,{},"{'label': 'positive', 'score': 0.8420196}"
 2020-03-15 08:41:35,https://www.reddit.com/r/stopdrinking/comments/fj0rcv/need_advice_103_days_sober/,Need advice - 103 days sober,"Hello guys hope you're all doing well and keeping safe!
 
 Bit of advice needed. I'm 3 and half months sober and generally been coping quite well. However I'm 3 days into a holiday my first since I quit. I'm bored senseless and just want to go home
@@ -7422,7 +7422,7 @@ Thanks..",14,{},"{'label': 'negative', 'score': 0.8768361}"
 2020-03-14 17:47:58,https://www.reddit.com/r/stopdrinking/comments/fiq756/is_it_possible_to_quit_drinking_if_i_dont_feel/,Is it possible to quit drinking if I don't feel like quitting?,I have depression and I am taking meds for it but I still have a couple drinks with dinner every night. I know it's bad for me but I feel like I can't help it. The thing is I'm relatively healthy still and I can afford to keep doing this for now. So how do I convince myself to quit even though I don't seem to have a lot of motivation?,3,{},"{'label': 'negative', 'score': 0.8006732}"
 2020-03-14 17:47:20,https://www.reddit.com/r/stopdrinking/comments/fiq6tm/day_17/,Day 17,"I dont really have much to say, except YAY ME! There's something really rewarding about counting the days and I'm so excited for 1 month! Then 2 months....then a year! Onwards and upwards. :-)
 Edit: typos",10,{},"{'label': 'positive', 'score': 0.9843092}"
-2020-03-14 17:44:26,https://www.reddit.com/r/stopdrinking/comments/fiq581/almost_relapsed_yesterday/,Almost relapsed yesterday,"I'm not gonna go into details but yesterday my spouse had done something that hurt me emotionally. I was so mad. I haven't felt that upset and betrayed in a long time. And  all I could think in that time was to get a drink as fast as I could. The more I kept tell myself no the more I got mad at the thought of what my spouse did to me. But I didnt drink. That was the most hardest strong willed I have ever been. Instead I went to walgreens and got a bath bomb, face mask, and kombacha and took a bath and felt all that pain. And guess what I didnt drink. But fuck it was soooo hard. Here's to 452 days sober. At times today I have had an urge but and still trying to resist.",30,{'mask': 1},"{'label': 'negative', 'score': 0.8192537}"
+2020-03-14 17:44:26,https://www.reddit.com/r/stopdrinking/comments/fiq581/almost_relapsed_yesterday/,Almost relapsed yesterday,"I'm not gonna go into details but yesterday my spouse had done something that hurt me emotionally. I was so mad. I haven't felt that upset and betrayed in a long time. And  all I could think in that time was to get a drink as fast as I could. The more I kept tell myself no the more I got mad at the thought of what my spouse did to me. But I didnt drink. That was the most hardest strong willed I have ever been. Instead I went to walgreens and got a bath bomb, face mask, and kombacha and took a bath and felt all that pain. And guess what I didnt drink. But fuck it was soooo hard. Here's to 452 days sober. At times today I have had an urge but and still trying to resist.",30,{},"{'label': 'negative', 'score': 0.8192537}"
 2020-03-14 16:56:37,https://www.reddit.com/r/stopdrinking/comments/fipdxu/day_2/,Day 2,"I was hitting 3 xl manhattans a night. Blacking our. Really getting the shakes and just not there. I have 2 young kids VERY recently divorced. Not gonna lie the insomnia is killing me but I already feel better.
 
 Any advice?",3,{},"{'label': 'neutral', 'score': 0.40651828}"
@@ -7890,7 +7890,7 @@ I feel a bit overwhelmed by the response here. As many of you know it’s so har
 
 I discovered myself consuming a six pack of PBR or whatever IPA was popular nightly, and found myself purchasing whiskey occasionally. Tapered down to three beers, to two, and finally to one per night, and now none. 
 
-Sought therapy, went to the doctor and received proper medication for anxiety, depression, and insomnia (was utilizing alcohol as a sedative), and hopefully the blood work that was performed comes back and doesn’t display any liver damage.",16,{'mask': 1},"{'label': 'neutral', 'score': 0.5566908}"
+Sought therapy, went to the doctor and received proper medication for anxiety, depression, and insomnia (was utilizing alcohol as a sedative), and hopefully the blood work that was performed comes back and doesn’t display any liver damage.",16,{},"{'label': 'neutral', 'score': 0.5566908}"
 2020-03-13 01:48:35,https://www.reddit.com/r/stopdrinking/comments/fhuwzl/bad_paws_symptoms_1_month_sober/,Bad PAWS symptoms 1 month sober,"Depression / Anxiety / Mania are peaking.
 
 Was a non daily binge drinker who would drink 8 500ml cans on a regular basis alone at home, I'd say average of 2-3 days per week over that time. Been at it over a decade, no real physical withdrawal. Drank to suppress emotions because of falling out with friends when I was younger and have avoided contact since then, alcohol drove me into isolation and a dark place, ruining my mental health and career in the process.
@@ -8380,7 +8380,7 @@ I believe it was Milan Kundera that wrote ""To live once is like to never live a
 
 Does that make sense to anybody?
 
-Day 4: I'm getting philosophical.",7,"{'mask': 1, 'virus': 1}","{'label': 'neutral', 'score': 0.44275743}"
+Day 4: I'm getting philosophical.",7,{'virus': 1},"{'label': 'neutral', 'score': 0.44275743}"
 2020-03-11 18:28:50,https://www.reddit.com/r/stopdrinking/comments/fh5p9x/blessingcurse_of_quitting_while_sick/,Blessing/curse of quitting while sick,"I think it's been six days since I've had a drink, aided by strep throat. Now I'm healthy and the first evening beer/basketball craving is hitting. Advice?",3,{},"{'label': 'positive', 'score': 0.6272723}"
 2020-03-11 18:19:49,https://www.reddit.com/r/stopdrinking/comments/fh5k7v/rating_my_craving/,Rating my craving...,"There have been some great threads over the last few days about how alcohol impacts the brain and how addiction develops. Many of the comments and articles underscore that alcohol abuse and dependency impact a part of the brain that is primitive and irrational. 
 
@@ -11703,7 +11703,7 @@ If you are still out in wild, keep in mind that booze will severely eff up your 
 
 Personally living alcohol free? I consciously  made a choice and stick by that change for a better life. I'm committed and accept personal consequences - drinking life style was a massive and deceptive fairy tale. Now I get to experience personal growth and physical recovery every day  (something that seriously can't be provided by drink or money). I'm also fortunate working remote so I can still earn my dough with great employer while hospitalized (very grateful!).
 
-I wouldn't have predicted this change just two months ago. I hope I'm helping so have a positive and alcohol free day, fam.",63,{'mask': 1},"{'label': 'neutral', 'score': 0.38557371}"
+I wouldn't have predicted this change just two months ago. I hope I'm helping so have a positive and alcohol free day, fam.",63,{},"{'label': 'neutral', 'score': 0.38557371}"
 2020-03-06 03:12:19,https://www.reddit.com/r/stopdrinking/comments/feag6o/dreams_about_drinking/,Dreams about drinking,Does anyone else dream about drinking? I don't think much about drinking during the day but I find I have weird dreams where  drinking! It is strange because I wake up quite glad it was a dream! 😁,2,{},"{'label': 'positive', 'score': 0.6035327}"
 2020-03-06 02:57:40,https://www.reddit.com/r/stopdrinking/comments/feabbk/first_sober_holiday_travel_accountability_post/,First sober holiday travel (accountability post),"I'm flying to Berlin in 30 minutes with my ex-gf. Or whatever it is we are. I'll probably be triggered there but I know my triggers quite well by now. Anyway, looking forward to it - but posting this here to remind myself to not have that first drink no matter what happens.",9,{},"{'label': 'positive', 'score': 0.54589725}"
 2020-03-06 02:30:00,https://www.reddit.com/r/stopdrinking/comments/fea284/i_know_drinking_never_helped_anything_but_this/,I know drinking never helped anything but this hurts too much 💔,"I haven’t had many cravings so far, but right now I just don’t want to feel my emotions.  It’s too much 😭 staying strong but this really blows and I feel so alone 😞",29,{},"{'label': 'negative', 'score': 0.9556847}"
@@ -12498,7 +12498,7 @@ I have an appointment with my Dr. tomorrow to discuss counseling options. I'm ti
 
 I need to change.
 
-And so, IWNDWYT.",3,{'mask': 1},"{'label': 'negative', 'score': 0.5314554}"
+And so, IWNDWYT.",3,{},"{'label': 'negative', 'score': 0.5314554}"
 2020-03-04 12:36:47,https://www.reddit.com/r/stopdrinking/comments/fdgj74/nonalcoholic_drinks_at_night_for_when_i_would_be/,non-alcoholic drinks at night for when I would be drinking wine,"Ugh. Title gore. I’m on mobile.
 
 I feel SO much better when I’m not drinking. The problem is that I get bored and want something to sip on all night. That used to be wine, but I really don’t want to do that anymore. 
@@ -13432,7 +13432,7 @@ Sobriety has been amazing.
 Check out these stats: https://imgur.com/a/LjUGsW7",123,{},"{'label': 'positive', 'score': 0.92457473}"
 2020-03-03 08:30:22,https://www.reddit.com/r/stopdrinking/comments/fcukua/one_month_today/,One month today!,"Today is my one month free of alcohol. I’ve only shared this journey with my wife and a few select coworkers, but I felt the need to shout it online. I’ve replaced six beers a night with scrabble, la croix, and cups of tea. Setting routines for even simple things, like a skin care routine before bed, has helped me skip the alcohol and stay on this path. I know my six beer self would be passed out long before I put a face mask on. I’ve listened to “The Naked Mind” by Annie Grace and “Quit Like A Woman” by Holly Whitaker and both books have helped tremendously. I find myself listening to chapters over and over again if I’m bored or I’m craving a drink. Anyway, just wanted to share that today. It feels good to be proud of myself. 
 
-IWNDWYT",23,{'mask': 1},"{'label': 'positive', 'score': 0.95818275}"
+IWNDWYT",23,{},"{'label': 'positive', 'score': 0.95818275}"
 2020-03-03 08:13:30,https://www.reddit.com/r/stopdrinking/comments/fcudmd/anybody_just_keep_getting_put_down_by_others/,Anybody just keep getting put down by others?,Not because of drinking but in general. I do not have any life but work and be home with family. I am always busy with the 2 year old but wife is uptight about stuff in general..I know she is pregnant and my parents are visiting so it's even worse and my boss at my job isnt happy with my work. In in probationary period and he says he expected more experience and not sure if il workout etc..,12,{},"{'label': 'negative', 'score': 0.95698047}"
 2020-03-03 08:12:17,https://www.reddit.com/r/stopdrinking/comments/fcud1y/blackout_dream/,Blackout dream,"Today is day two for me. Last night, I had a dream where I blacked out. In the dream, I was out drinking and it was time to go home, and in the dream I couldn’t remember how I got home. There is literally is a hole in my dream where an IRL blackout would’ve occurred. I’ve never had this before - anyone else ever had this experience? I think it is showing me that my brain clearly needs time to heal, even in my sleep. 
 
@@ -13908,7 +13908,7 @@ It wasn't easy. I had several moments that tested me. A good friend (who was ver
 
 In case you are wondering, I will not drink with you today.
 
-Happy carnaval, folks!",4,{'mask': 1},"{'label': 'negative', 'score': 0.59648347}"
+Happy carnaval, folks!",4,{},"{'label': 'negative', 'score': 0.59648347}"
 2020-03-02 11:33:15,https://www.reddit.com/r/stopdrinking/comments/fcennm/stopped_drinking_a_little_over_a_year_ago_how_do/,"Stopped drinking a little over a year ago, how do I move forward?","To start off I'm in my 20's, and had been drinking on and off ever since I was able to drink. I was never addicted, but I was certainly a dependent. Naturally I'm a very shy guy, and when drinking I was actually fun, and would typically drink when chatting up other girls or people in general. Most times, it actually went very well.. made a lot of friends, and girls always thought I was a fun cool guy. Where it began to become an issue? When I'd go overboard, and not realize just how drunk I was, making a fool out of myself. Or when I eventually began pouring cheap vodka daily in my yeti to function sociably at my job, or always drinking when attending events like funerals, weddings, family get togethers, which ultimately just made me embarrass myself so much to my family.
 
 What's worst, is I would even DRINK AND DRIVE to feel safe. How stupid. And eventually this all came crashing down on me when I got a DUI, AND creeped out a woman so much from being so illiterately drunk, and trying to hit on her in the most awkward disgusting way. I felt like a monster, and honestly it made quitting drinking incredibly easy. The thought of alcohol literally turned my stomach because it just reminded me of all the hell I put myself through because of it. Now, a year later sober, I've been able to obtain a great job and do well at it, an also be somewhat sociable (Which I'm still working on.)
@@ -14144,7 +14144,7 @@ Each time I allow myself to let go, totally surrender, and sit with the uncomfor
 
 Today, was a particularly emotional day for me.  I feel so alone.  Like it’s just Me VS Me— yet like I’m right where I’m supposed to be.  I feel like there’s no more excuses and not a minute left to waste.  No turning back— I made it to shore and burned down the boat I came in.  No other choice except to walk into the fire and let it purify my heart like gold.
 
-This is how my sobriety feels to me 💕",13,{'mask': 1},"{'label': 'neutral', 'score': 0.44786218}"
+This is how my sobriety feels to me 💕",13,{},"{'label': 'neutral', 'score': 0.44786218}"
 2020-03-02 00:40:31,https://www.reddit.com/r/stopdrinking/comments/fc7fxb/rant_ramble_advice_take_what_you_need_from_this/,"rant, ramble, advice. take what you need from this and leave what you dont","I guess its a quick post about something that just struck me. as always, we all have our own goals, journeys, stories, and nothing in this post is in anyway meant to attack or demean, only encourage, your journey. but im sleep deprived and about to switch everything off before i hit the hay.  
 
 &#x200B;
@@ -14709,7 +14709,7 @@ Once every four years on February 29th I like to vac the car. Anyone with kids w
 
 A stark, sobering reminder of just one of the ways I'd try mask my habit!
 
-Now, take your mark,  get set, GO........",108,{'mask': 1},"{'label': 'neutral', 'score': 0.5378184}"
+Now, take your mark,  get set, GO........",108,{},"{'label': 'neutral', 'score': 0.5378184}"
 2020-03-01 01:44:51,https://www.reddit.com/r/stopdrinking/comments/fbqbb9/just_a_one_bottle_of_booze/,Just a one Bottle of Booze,"Yesterday I thought that I could just sip whiskey in a sophisticated way like they do in the movies and tv-series after a long week. Well, it didn't go that way, I ended up vomiting and did send some embarrasing messages to some people I know. Luckily my wife still loves me and let me sleep few hours more while she was taking care of our child, so he doesn't have to see me in this condition. And we talk later. That's my story for the weekend. I think I need to say my goodbyes to alcohol forever. Yet I haven't done it completely. IWNDWYT.",16,{},"{'label': 'neutral', 'score': 0.43914083}"
 2020-03-01 01:16:46,https://www.reddit.com/r/stopdrinking/comments/fbq1qk/so_its_been_a_yearagain/,So it's been a year...again,"This is my 5th attempt at quitting and 2nd time reaching a full year. 
 I still think about drinking almost every day but it passes quickly. I can't say I miss it because when I drank it usually went too far. Who could miss that??
